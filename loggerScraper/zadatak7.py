@@ -32,7 +32,6 @@ def generate(file):
         for key in keyList:
             if (value == key):
                 count += 1
-	# OVDJE ISPISUJEM BEZ SORTIRANJA ZBOG ISTEKA VREMENA ! ŽAO MI JE 
         print (value + "          " + str(count))
 
 
